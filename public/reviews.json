@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "1",
+    "author": "Aminul Islam",
+    "text": "I give this cycle 5 star ratings. Speed and Materials so better quality.",
+    "rating": 5
+  },
+  {
+    "_id": "2",
+    "author": "Sadia Afrin",
+    "text": "A great bridge across the gap between exercise, smart bikes and your wallet",
+    "rating": 4.5
+  },
+  {
+    "_id": "3",
+    "author": "MD Siyam",
+    "text": "Stylish limited edition jersey, bibs and base layer using recycled fabrics",
+    "rating": 5
+  },
+  {
+    "_id": "4",
+    "author": "Fariha Akther",
+    "text": " Everything is okay. But I think the price should be decrease. Price range is so huge.",
+    "rating": 5
+  },
+  {
+    "_id": "5",
+    "author": "Mehedi Hassan",
+    "text": "Awesome Cycle. But the cycle sit was not good. Without cycle sit everything okay.",
+    "rating": 4.3
+  },
+  {
+    "_id": "6",
+    "author": "MD Shanto",
+    "text": "Awesome Cycle I will recomended you to buy. It's a good cycle on the present time.",
+    "rating": 5
+  }
+]
